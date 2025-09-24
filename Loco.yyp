@@ -49,6 +49,7 @@
   "resources":[
     {"id":{"name":"NekoPresence","path":"extensions/NekoPresence/NekoPresence.yy",},},
     {"id":{"name":"comicsans","path":"fonts/comicsans/comicsans.yy",},},
+    {"id":{"name":"crash","path":"objects/crash/crash.yy",},},
     {"id":{"name":"horse","path":"objects/horse/horse.yy",},},
     {"id":{"name":"killbart","path":"objects/killbart/killbart.yy",},},
     {"id":{"name":"obj_aooni","path":"objects/obj_aooni/obj_aooni.yy",},},

@@ -31,7 +31,7 @@ function le(){
 }
 
 function lf(){
-	
+	instance_create_layer(0, 0, "Instances", crash)
 }
 
 function lg(){

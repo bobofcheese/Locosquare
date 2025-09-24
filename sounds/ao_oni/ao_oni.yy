@@ -12,8 +12,8 @@
   "duration":254.00311,
   "name":"ao_oni",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"thehorse",
+    "path":"folders/Sounds/thehorse.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
