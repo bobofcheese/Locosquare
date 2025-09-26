@@ -1,0 +1,1 @@
+np_setpresence("", "Nuke the game.", "nuke", "");

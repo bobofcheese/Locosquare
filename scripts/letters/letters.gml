@@ -35,7 +35,7 @@ function lf(){
 }
 
 function lg(){
-	
+	//room_goto(gamed)
 }
 
 function lh(){ // bouncing horse
